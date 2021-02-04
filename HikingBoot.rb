@@ -1,0 +1,3 @@
+class HikingBoot
+    
+end
